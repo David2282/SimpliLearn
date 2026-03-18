@@ -1,0 +1,34 @@
+# Virtual environments
+venv/
+.venv/
+env/
+**/venv/
+**/.venv/
+**/env/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Node / frontend deps
+node_modules/
+**/node_modules/
+
+# JupyterLab and generated static/share content
+share/
+static/
+lib/
+
+# OS files
+.DS_Store
+Thumbs.db
