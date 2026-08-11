@@ -1,0 +1,1001 @@
+encounter_id,party_size,party_level,monster_count,monster_name,monster_challenge_rating,encounter_description,feasibility_label
+encounter_1502,4,4,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_2587,3,19,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_2654,2,1,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 2 adventurers at level 1.,Not Possible
+encounter_1056,2,10,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 2 adventurers at level 10.,Not Possible
+encounter_706,2,8,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 2 adventurers at level 8.,Possible
+encounter_107,4,12,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 4 adventurers at level 12.,Possible
+encounter_590,2,3,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 2 adventurers at level 3.,Possible
+encounter_2469,5,7,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_2414,1,2,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 1 adventurers at level 2.,Not Possible
+encounter_1601,2,6,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 2 adventurers at level 6.,Not Possible
+encounter_2465,1,5,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 1 adventurers at level 5.,Possible
+encounter_229,3,15,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_916,4,10,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 4 adventurers at level 10.,Not Possible
+encounter_795,4,3,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 4 adventurers at level 3.,Possible
+encounter_3022,4,3,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 4 adventurers at level 3.,Possible
+encounter_3544,4,12,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 12.,Possible
+encounter_1074,5,9,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_3352,2,9,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_1745,1,1,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_1085,5,3,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 5 adventurers at level 3.,Not Possible
+encounter_927,3,15,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_3050,2,5,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 2 adventurers at level 5.,Not Possible
+encounter_1118,5,2,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 5 adventurers at level 2.,Not Possible
+encounter_643,5,10,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_4768,4,6,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 4 adventurers at level 6.,Not Possible
+encounter_502,4,6,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_4067,5,1,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 5 adventurers at level 1.,Not Possible
+encounter_334,5,18,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_4685,5,7,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_487,1,10,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 1 adventurers at level 10.,Possible
+encounter_1963,3,17,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 3 adventurers at level 17.,Possible
+encounter_394,2,13,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 2 adventurers at level 13.,Not Possible
+encounter_4843,2,19,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_4867,3,11,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 3 adventurers at level 11.,Possible
+encounter_1756,2,1,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 2 adventurers at level 1.,Not Possible
+encounter_2516,3,15,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_3586,3,10,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_4316,4,10,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_4967,5,15,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_2100,3,6,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 3 adventurers at level 6.,Not Possible
+encounter_3600,5,16,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 5 adventurers at level 16.,Possible
+encounter_4122,5,5,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_30,4,17,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 4 adventurers at level 17.,Possible
+encounter_66,1,19,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 1 adventurers at level 19.,Possible
+encounter_839,3,12,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 3 adventurers at level 12.,Not Possible
+encounter_3907,3,3,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 3 adventurers at level 3.,Possible
+encounter_3774,1,19,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 1 adventurers at level 19.,Possible
+encounter_4636,4,15,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_3162,3,4,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 3 adventurers at level 4.,Possible
+encounter_2660,4,2,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 4 adventurers at level 2.,Possible
+encounter_4616,2,5,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 2 adventurers at level 5.,Possible
+encounter_4629,4,14,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 14.,Possible
+encounter_2452,2,12,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 2 adventurers at level 12.,Possible
+encounter_2847,1,9,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 1 adventurers at level 9.,Possible
+encounter_1145,4,6,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_3079,1,19,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 1 adventurers at level 19.,Possible
+encounter_1104,5,4,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_169,3,6,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 3 adventurers at level 6.,Not Possible
+encounter_1671,1,1,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_2571,4,17,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 4 adventurers at level 17.,Possible
+encounter_2378,2,9,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_4396,1,12,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 1 adventurers at level 12.,Not Possible
+encounter_4258,2,11,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 2 adventurers at level 11.,Possible
+encounter_3863,3,10,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_24,2,15,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 2 adventurers at level 15.,Not Possible
+encounter_2634,1,12,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 1 adventurers at level 12.,Possible
+encounter_3341,5,14,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 5 adventurers at level 14.,Not Possible
+encounter_2216,4,6,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_3683,4,10,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_4725,2,13,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 2 adventurers at level 13.,Possible
+encounter_1908,3,9,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_85,4,10,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_228,2,4,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 2 adventurers at level 4.,Not Possible
+encounter_297,3,2,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 3 adventurers at level 2.,Possible
+encounter_1002,4,8,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 4 adventurers at level 8.,Possible
+encounter_2139,5,7,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_712,5,5,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_2802,1,7,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 1 adventurers at level 7.,Not Possible
+encounter_2528,2,4,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 2 adventurers at level 4.,Not Possible
+encounter_3753,2,17,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_3322,1,3,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 1 adventurers at level 3.,Possible
+encounter_3182,5,16,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 5 adventurers at level 16.,Possible
+encounter_4184,2,7,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 2 adventurers at level 7.,Possible
+encounter_1616,3,19,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_3025,4,14,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 4 adventurers at level 14.,Possible
+encounter_1414,2,10,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 2 adventurers at level 10.,Possible
+encounter_764,2,9,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_656,2,11,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 2 adventurers at level 11.,Not Possible
+encounter_4798,4,17,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 4 adventurers at level 17.,Possible
+encounter_3850,3,4,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 3 adventurers at level 4.,Not Possible
+encounter_4154,2,14,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 2 adventurers at level 14.,Possible
+encounter_469,2,6,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 2 adventurers at level 6.,Possible
+encounter_158,4,5,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_1296,5,6,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 5 adventurers at level 6.,Possible
+encounter_498,2,3,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 2 adventurers at level 3.,Possible
+encounter_4741,2,14,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 2 adventurers at level 14.,Possible
+encounter_2941,5,5,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_3457,3,10,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_374,1,13,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 1 adventurers at level 13.,Not Possible
+encounter_80,5,14,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 5 adventurers at level 14.,Possible
+encounter_1554,3,15,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_1670,3,1,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 3 adventurers at level 1.,Not Possible
+encounter_2132,3,18,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 3 adventurers at level 18.,Possible
+encounter_4440,2,6,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 2 adventurers at level 6.,Not Possible
+encounter_466,3,13,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 3 adventurers at level 13.,Possible
+encounter_249,5,7,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_932,2,15,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 2 adventurers at level 15.,Possible
+encounter_1336,5,3,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 3.,Possible
+encounter_4525,2,6,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 2 adventurers at level 6.,Possible
+encounter_1339,1,13,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 1 adventurers at level 13.,Possible
+encounter_1407,5,7,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 5 adventurers at level 7.,Not Possible
+encounter_1091,5,18,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_4210,3,2,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 3 adventurers at level 2.,Not Possible
+encounter_743,5,4,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_2324,4,5,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_3602,2,1,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 2 adventurers at level 1.,Possible
+encounter_2124,1,14,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 1 adventurers at level 14.,Possible
+encounter_2095,2,1,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 2 adventurers at level 1.,Not Possible
+encounter_241,3,17,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 3 adventurers at level 17.,Possible
+encounter_2352,4,18,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_1371,1,18,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 1 adventurers at level 18.,Possible
+encounter_1058,5,8,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 5 adventurers at level 8.,Not Possible
+encounter_4817,3,14,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 3 adventurers at level 14.,Possible
+encounter_200,1,10,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 1 adventurers at level 10.,Possible
+encounter_2281,4,5,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_4750,4,13,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 4 adventurers at level 13.,Possible
+encounter_2221,2,12,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 2 adventurers at level 12.,Possible
+encounter_4772,4,19,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_2820,3,11,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 3 adventurers at level 11.,Possible
+encounter_3151,5,13,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_4257,2,1,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 2 adventurers at level 1.,Not Possible
+encounter_3108,3,15,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_1974,3,14,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 3 adventurers at level 14.,Not Possible
+encounter_1376,3,19,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_3969,5,17,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_4063,3,13,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 3 adventurers at level 13.,Possible
+encounter_4446,1,4,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 1 adventurers at level 4.,Not Possible
+encounter_3558,2,18,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 2 adventurers at level 18.,Possible
+encounter_965,2,6,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 2 adventurers at level 6.,Not Possible
+encounter_180,3,9,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_3699,1,17,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 1 adventurers at level 17.,Not Possible
+encounter_3822,3,3,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 3 adventurers at level 3.,Possible
+encounter_4879,3,11,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 3 adventurers at level 11.,Possible
+encounter_3900,5,13,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_4488,5,17,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_3239,5,15,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_2975,5,13,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_3581,2,14,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 2 adventurers at level 14.,Possible
+encounter_2888,1,1,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_2576,4,6,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 4 adventurers at level 6.,Not Possible
+encounter_1420,1,15,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 1 adventurers at level 15.,Possible
+encounter_3908,1,1,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 1 adventurers at level 1.,Possible
+encounter_4674,5,16,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 5 adventurers at level 16.,Possible
+encounter_4903,5,15,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_1861,5,17,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_9,3,3,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 3 adventurers at level 3.,Possible
+encounter_2895,3,3,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 3 adventurers at level 3.,Possible
+encounter_2848,1,13,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 1 adventurers at level 13.,Not Possible
+encounter_3665,4,14,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 4 adventurers at level 14.,Possible
+encounter_145,5,17,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_2105,2,11,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 2 adventurers at level 11.,Not Possible
+encounter_3144,3,13,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 3 adventurers at level 13.,Possible
+encounter_842,5,10,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_1129,5,9,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_152,2,11,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 2 adventurers at level 11.,Not Possible
+encounter_3592,2,8,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 2 adventurers at level 8.,Not Possible
+encounter_1053,1,6,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 1 adventurers at level 6.,Possible
+encounter_1591,1,18,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 1 adventurers at level 18.,Possible
+encounter_3009,1,14,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 1 adventurers at level 14.,Possible
+encounter_2030,3,16,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_3419,4,4,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_1808,5,7,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_2697,1,12,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 1 adventurers at level 12.,Not Possible
+encounter_3040,2,7,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 2 adventurers at level 7.,Possible
+encounter_473,5,8,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 5 adventurers at level 8.,Possible
+encounter_3290,4,15,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_4075,4,10,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_3497,2,11,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 2 adventurers at level 11.,Not Possible
+encounter_280,3,9,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_1742,4,11,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_4625,5,13,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_2887,4,19,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_1942,4,18,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_101,5,13,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_2805,3,12,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 3 adventurers at level 12.,Not Possible
+encounter_3571,4,9,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 4 adventurers at level 9.,Not Possible
+encounter_3685,2,8,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 2 adventurers at level 8.,Possible
+encounter_3662,3,19,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_531,4,4,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 4 adventurers at level 4.,Not Possible
+encounter_1887,1,3,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_682,5,12,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 5 adventurers at level 12.,Possible
+encounter_3795,5,6,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 5 adventurers at level 6.,Not Possible
+encounter_3945,3,18,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 3 adventurers at level 18.,Not Possible
+encounter_4667,3,17,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 3 adventurers at level 17.,Possible
+encounter_2019,2,9,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_1097,3,16,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_830,4,18,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_2806,3,9,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_3830,3,7,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 3 adventurers at level 7.,Possible
+encounter_4382,5,5,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_3892,1,3,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_765,2,15,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 2 adventurers at level 15.,Possible
+encounter_2768,1,10,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 1 adventurers at level 10.,Not Possible
+encounter_4329,2,17,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_3296,3,19,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_2195,4,5,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_2358,1,5,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 1 adventurers at level 5.,Possible
+encounter_3426,5,18,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_3980,4,18,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_912,2,17,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 2 adventurers at level 17.,Not Possible
+encounter_3146,3,5,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 3 adventurers at level 5.,Possible
+encounter_1000,1,14,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 1 adventurers at level 14.,Not Possible
+encounter_3654,1,12,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 1 adventurers at level 12.,Possible
+encounter_2484,4,5,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_4077,4,7,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 4 adventurers at level 7.,Possible
+encounter_2371,2,14,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 2 adventurers at level 14.,Possible
+encounter_4839,5,9,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_34,3,14,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 3 adventurers at level 14.,Possible
+encounter_3790,1,4,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 1 adventurers at level 4.,Not Possible
+encounter_1021,4,9,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 4 adventurers at level 9.,Possible
+encounter_1648,2,6,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 2 adventurers at level 6.,Possible
+encounter_734,1,7,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 1 adventurers at level 7.,Not Possible
+encounter_4583,4,16,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_3275,1,19,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 1 adventurers at level 19.,Not Possible
+encounter_1621,1,17,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 1 adventurers at level 17.,Possible
+encounter_3136,4,1,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 4 adventurers at level 1.,Not Possible
+encounter_2690,4,1,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 4 adventurers at level 1.,Possible
+encounter_2708,3,18,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 3 adventurers at level 18.,Possible
+encounter_298,3,9,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_2340,3,5,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 3 adventurers at level 5.,Possible
+encounter_654,5,18,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_3775,3,1,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 3 adventurers at level 1.,Not Possible
+encounter_1256,5,13,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_4521,1,7,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 1 adventurers at level 7.,Not Possible
+encounter_231,4,6,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_3277,2,5,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 2 adventurers at level 5.,Not Possible
+encounter_3231,2,17,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 2 adventurers at level 17.,Not Possible
+encounter_692,4,18,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_2755,2,1,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 2 adventurers at level 1.,Possible
+encounter_4864,4,9,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 4 adventurers at level 9.,Possible
+encounter_970,2,7,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 2 adventurers at level 7.,Not Possible
+encounter_634,3,18,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 3 adventurers at level 18.,Possible
+encounter_4093,1,1,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_4078,3,4,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 3 adventurers at level 4.,Not Possible
+encounter_1322,3,15,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_1832,4,19,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 4 adventurers at level 19.,Not Possible
+encounter_2179,1,3,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_1418,3,8,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 3 adventurers at level 8.,Possible
+encounter_1783,2,4,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 2 adventurers at level 4.,Not Possible
+encounter_4716,2,5,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 2 adventurers at level 5.,Not Possible
+encounter_4702,1,16,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 1 adventurers at level 16.,Possible
+encounter_4119,3,2,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 3 adventurers at level 2.,Possible
+encounter_1653,1,4,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 1 adventurers at level 4.,Possible
+encounter_1484,4,11,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_2276,5,5,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_878,5,11,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_3526,2,3,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 2 adventurers at level 3.,Possible
+encounter_2017,3,8,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 3 adventurers at level 8.,Possible
+encounter_427,2,2,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 2 adventurers at level 2.,Not Possible
+encounter_627,1,15,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 1 adventurers at level 15.,Possible
+encounter_1590,4,4,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_2224,1,3,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_2218,4,8,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 8.,Possible
+encounter_4484,3,4,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 3 adventurers at level 4.,Possible
+encounter_1486,1,4,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 1 adventurers at level 4.,Not Possible
+encounter_1740,2,7,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 2 adventurers at level 7.,Not Possible
+encounter_2481,5,14,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 5 adventurers at level 14.,Possible
+encounter_2585,1,1,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_2894,1,15,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 1 adventurers at level 15.,Not Possible
+encounter_150,3,3,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 3 adventurers at level 3.,Not Possible
+encounter_677,3,12,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 3 adventurers at level 12.,Not Possible
+encounter_1262,5,1,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 5 adventurers at level 1.,Possible
+encounter_4918,3,7,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 3 adventurers at level 7.,Possible
+encounter_13,5,3,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 3.,Possible
+encounter_1834,5,17,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_3249,5,14,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 5 adventurers at level 14.,Possible
+encounter_1492,3,10,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_2728,3,15,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_3687,5,4,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_1425,2,11,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 2 adventurers at level 11.,Possible
+encounter_4606,5,15,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_4596,1,7,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 1 adventurers at level 7.,Not Possible
+encounter_732,5,14,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 14.,Possible
+encounter_1232,5,11,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_1635,5,12,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 5 adventurers at level 12.,Possible
+encounter_3937,5,9,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_1211,3,18,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 3 adventurers at level 18.,Possible
+encounter_3269,2,18,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 2 adventurers at level 18.,Not Possible
+encounter_1935,2,6,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 2 adventurers at level 6.,Possible
+encounter_554,5,19,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 5 adventurers at level 19.,Possible
+encounter_492,2,3,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 2 adventurers at level 3.,Not Possible
+encounter_2963,2,3,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 2 adventurers at level 3.,Not Possible
+encounter_2330,5,18,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_2196,5,3,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 5 adventurers at level 3.,Possible
+encounter_3065,3,13,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 3 adventurers at level 13.,Possible
+encounter_658,1,12,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 1 adventurers at level 12.,Possible
+encounter_2375,4,9,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 4 adventurers at level 9.,Possible
+encounter_2226,2,16,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 2 adventurers at level 16.,Possible
+encounter_4265,4,19,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_1171,1,15,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 1 adventurers at level 15.,Possible
+encounter_133,5,17,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_472,3,7,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 3 adventurers at level 7.,Not Possible
+encounter_3226,5,13,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_1406,1,4,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 1 adventurers at level 4.,Not Possible
+encounter_2877,3,16,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_4505,1,8,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 1 adventurers at level 8.,Possible
+encounter_4693,4,8,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 4 adventurers at level 8.,Possible
+encounter_2827,2,17,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_288,4,6,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_1870,2,2,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 2 adventurers at level 2.,Not Possible
+encounter_3115,2,18,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 2 adventurers at level 18.,Possible
+encounter_3626,4,3,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 4 adventurers at level 3.,Not Possible
+encounter_2313,5,15,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_4924,2,4,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 2 adventurers at level 4.,Not Possible
+encounter_1619,4,17,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 4 adventurers at level 17.,Possible
+encounter_995,4,10,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_1804,5,5,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_2643,2,11,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 2 adventurers at level 11.,Possible
+encounter_4803,1,12,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 1 adventurers at level 12.,Possible
+encounter_3536,1,3,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_4832,4,5,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 4 adventurers at level 5.,Not Possible
+encounter_3912,3,6,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 3 adventurers at level 6.,Not Possible
+encounter_2108,2,17,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_3045,4,3,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 4 adventurers at level 3.,Possible
+encounter_417,3,10,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_978,2,2,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 2 adventurers at level 2.,Not Possible
+encounter_2418,5,4,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 5 adventurers at level 4.,Not Possible
+encounter_506,2,15,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 2 adventurers at level 15.,Possible
+encounter_4153,2,19,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_4256,4,6,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_3942,2,12,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 2 adventurers at level 12.,Possible
+encounter_415,1,15,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 1 adventurers at level 15.,Not Possible
+encounter_4149,4,10,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_1184,4,12,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 4 adventurers at level 12.,Possible
+encounter_486,1,7,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 1 adventurers at level 7.,Not Possible
+encounter_894,5,6,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 5 adventurers at level 6.,Possible
+encounter_806,2,8,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 2 adventurers at level 8.,Not Possible
+encounter_556,3,8,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 3 adventurers at level 8.,Possible
+encounter_3826,3,12,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 3 adventurers at level 12.,Possible
+encounter_1198,5,16,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 5 adventurers at level 16.,Possible
+encounter_4254,2,14,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 2 adventurers at level 14.,Possible
+encounter_4059,1,19,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 1 adventurers at level 19.,Possible
+encounter_1294,3,11,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 3 adventurers at level 11.,Possible
+encounter_2222,1,11,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 1 adventurers at level 11.,Possible
+encounter_3505,4,18,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_3655,1,9,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 1 adventurers at level 9.,Not Possible
+encounter_4759,4,6,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_3007,5,10,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_2094,1,7,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 1 adventurers at level 7.,Possible
+encounter_2188,5,4,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_3037,1,8,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 1 adventurers at level 8.,Possible
+encounter_3919,5,13,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_1273,5,4,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 5 adventurers at level 4.,Not Possible
+encounter_291,1,4,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 1 adventurers at level 4.,Not Possible
+encounter_4828,3,4,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 3 adventurers at level 4.,Not Possible
+encounter_253,2,12,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 2 adventurers at level 12.,Possible
+encounter_3246,1,5,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 1 adventurers at level 5.,Not Possible
+encounter_351,1,2,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 1 adventurers at level 2.,Possible
+encounter_1188,5,16,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 5 adventurers at level 16.,Possible
+encounter_1962,5,19,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 5 adventurers at level 19.,Possible
+encounter_423,3,15,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_91,2,10,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 2 adventurers at level 10.,Possible
+encounter_3730,1,6,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 1 adventurers at level 6.,Not Possible
+encounter_2237,2,14,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 2 adventurers at level 14.,Possible
+encounter_671,4,3,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 4 adventurers at level 3.,Not Possible
+encounter_3041,4,3,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 4 adventurers at level 3.,Possible
+encounter_27,2,2,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 2 adventurers at level 2.,Possible
+encounter_430,3,4,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 3 adventurers at level 4.,Not Possible
+encounter_684,1,4,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 1 adventurers at level 4.,Possible
+encounter_4464,2,13,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 2 adventurers at level 13.,Possible
+encounter_3946,1,1,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 1 adventurers at level 1.,Possible
+encounter_3524,4,10,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_1542,1,5,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 1 adventurers at level 5.,Not Possible
+encounter_2032,4,8,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 4 adventurers at level 8.,Possible
+encounter_2233,1,11,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 1 adventurers at level 11.,Possible
+encounter_4121,5,15,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_3236,3,3,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 3 adventurers at level 3.,Not Possible
+encounter_255,2,9,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_1030,4,1,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 4 adventurers at level 1.,Possible
+encounter_4393,5,16,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 5 adventurers at level 16.,Possible
+encounter_3801,4,10,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_4311,2,6,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 2 adventurers at level 6.,Not Possible
+encounter_2510,3,2,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 3 adventurers at level 2.,Not Possible
+encounter_2293,5,3,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 5 adventurers at level 3.,Possible
+encounter_1324,2,17,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_1551,5,19,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 5 adventurers at level 19.,Possible
+encounter_4648,2,17,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_316,3,6,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 3 adventurers at level 6.,Possible
+encounter_1243,4,16,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_2451,4,11,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_1579,1,13,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 1 adventurers at level 13.,Not Possible
+encounter_4626,3,13,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 3 adventurers at level 13.,Possible
+encounter_3117,5,6,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 6.,Possible
+encounter_70,3,4,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 3 adventurers at level 4.,Not Possible
+encounter_860,2,19,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_2754,3,10,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_1633,3,1,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 3 adventurers at level 1.,Not Possible
+encounter_1651,1,8,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 1 adventurers at level 8.,Possible
+encounter_3861,4,6,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_3107,3,5,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 3 adventurers at level 5.,Not Possible
+encounter_1075,5,13,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_4002,4,11,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_788,3,15,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_2606,1,1,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 1 adventurers at level 1.,Possible
+encounter_3631,3,12,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 3 adventurers at level 12.,Possible
+encounter_2122,2,7,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 2 adventurers at level 7.,Not Possible
+encounter_1875,1,19,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 1 adventurers at level 19.,Possible
+encounter_812,5,5,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 5 adventurers at level 5.,Not Possible
+encounter_388,4,11,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 4 adventurers at level 11.,Not Possible
+encounter_2883,2,14,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 2 adventurers at level 14.,Possible
+encounter_1176,2,13,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 2 adventurers at level 13.,Possible
+encounter_3198,5,19,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 5 adventurers at level 19.,Possible
+encounter_2624,3,16,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_1352,4,12,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 4 adventurers at level 12.,Possible
+encounter_411,3,1,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 3 adventurers at level 1.,Not Possible
+encounter_4213,3,14,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 3 adventurers at level 14.,Possible
+encounter_110,5,11,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_4996,5,11,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_3430,4,10,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_2810,5,11,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_2595,3,11,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 3 adventurers at level 11.,Possible
+encounter_2837,3,19,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_2373,2,10,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 2 adventurers at level 10.,Possible
+encounter_1236,5,17,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_2147,5,5,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_4976,1,14,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 1 adventurers at level 14.,Not Possible
+encounter_600,3,15,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 3 adventurers at level 15.,Not Possible
+encounter_1435,3,6,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 3 adventurers at level 6.,Possible
+encounter_4997,4,4,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_539,3,2,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 3 adventurers at level 2.,Possible
+encounter_722,3,5,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 3 adventurers at level 5.,Possible
+encounter_4411,3,17,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 3 adventurers at level 17.,Possible
+encounter_1873,4,5,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_2846,4,11,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_2054,2,4,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 2 adventurers at level 4.,Possible
+encounter_2908,2,12,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 2 adventurers at level 12.,Possible
+encounter_2255,3,9,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_3913,3,1,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 3 adventurers at level 1.,Not Possible
+encounter_178,3,9,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 3 adventurers at level 9.,Not Possible
+encounter_2891,3,8,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 3 adventurers at level 8.,Possible
+encounter_3674,4,12,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 4 adventurers at level 12.,Possible
+encounter_81,4,10,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_2562,4,13,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 4 adventurers at level 13.,Possible
+encounter_1724,3,6,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 3 adventurers at level 6.,Possible
+encounter_1618,5,6,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 5 adventurers at level 6.,Possible
+encounter_1655,5,17,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_2329,5,10,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_4614,1,6,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 1 adventurers at level 6.,Possible
+encounter_222,1,10,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 1 adventurers at level 10.,Not Possible
+encounter_94,5,6,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 5 adventurers at level 6.,Possible
+encounter_2610,3,3,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 3 adventurers at level 3.,Possible
+encounter_3383,4,7,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 4 adventurers at level 7.,Possible
+encounter_4416,5,17,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_1398,3,10,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_4687,3,12,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 3 adventurers at level 12.,Not Possible
+encounter_1293,5,10,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_2165,2,15,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 2 adventurers at level 15.,Possible
+encounter_2940,1,16,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 1 adventurers at level 16.,Possible
+encounter_3669,2,3,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 2 adventurers at level 3.,Not Possible
+encounter_813,2,17,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_1259,5,9,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 5 adventurers at level 9.,Not Possible
+encounter_890,4,4,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_1452,4,5,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_3317,3,16,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_2560,4,4,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 4 adventurers at level 4.,Not Possible
+encounter_3575,1,4,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 1 adventurers at level 4.,Not Possible
+encounter_2681,5,10,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_4652,3,19,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_4812,2,17,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_4680,2,3,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 2 adventurers at level 3.,Not Possible
+encounter_2965,3,16,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_2673,5,18,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_562,2,2,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 2 adventurers at level 2.,Not Possible
+encounter_2779,5,11,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_2949,4,6,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_2818,4,14,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 4 adventurers at level 14.,Possible
+encounter_2759,5,7,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_1757,1,19,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 1 adventurers at level 19.,Not Possible
+encounter_725,4,10,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_220,2,18,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 2 adventurers at level 18.,Possible
+encounter_4140,2,13,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 2 adventurers at level 13.,Not Possible
+encounter_3958,5,16,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 5 adventurers at level 16.,Possible
+encounter_1589,1,7,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 1 adventurers at level 7.,Possible
+encounter_3348,4,10,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 4 adventurers at level 10.,Not Possible
+encounter_3971,5,6,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 5 adventurers at level 6.,Not Possible
+encounter_4708,2,12,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 2 adventurers at level 12.,Not Possible
+encounter_44,1,19,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 1 adventurers at level 19.,Possible
+encounter_3002,5,18,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_211,4,5,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 4 adventurers at level 5.,Not Possible
+encounter_678,3,12,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 3 adventurers at level 12.,Possible
+encounter_355,1,2,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 1 adventurers at level 2.,Possible
+encounter_1434,5,15,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_950,3,16,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_2844,5,5,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_578,5,7,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 5 adventurers at level 7.,Not Possible
+encounter_3929,3,17,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 3 adventurers at level 17.,Possible
+encounter_545,2,4,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 2 adventurers at level 4.,Possible
+encounter_368,1,8,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 1 adventurers at level 8.,Not Possible
+encounter_1613,5,2,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 5 adventurers at level 2.,Possible
+encounter_3551,2,16,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 2 adventurers at level 16.,Possible
+encounter_3717,1,3,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_3780,2,5,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 2 adventurers at level 5.,Not Possible
+encounter_136,5,13,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_4481,2,4,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 2 adventurers at level 4.,Possible
+encounter_1438,5,18,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_48,2,17,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_1361,5,13,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_735,1,13,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 1 adventurers at level 13.,Possible
+encounter_1535,2,19,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_2005,1,8,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 1 adventurers at level 8.,Not Possible
+encounter_3796,5,10,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_2520,1,1,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_1973,3,12,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 3 adventurers at level 12.,Possible
+encounter_997,4,17,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 4 adventurers at level 17.,Possible
+encounter_62,4,9,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 4 adventurers at level 9.,Possible
+encounter_1109,4,12,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 4 adventurers at level 12.,Possible
+encounter_2406,5,9,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_96,3,12,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 3 adventurers at level 12.,Possible
+encounter_479,1,4,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 1 adventurers at level 4.,Possible
+encounter_4360,3,19,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_4113,2,19,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_3708,3,7,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 3 adventurers at level 7.,Possible
+encounter_1102,5,15,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_2747,1,7,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 1 adventurers at level 7.,Possible
+encounter_2171,2,7,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 2 adventurers at level 7.,Not Possible
+encounter_323,2,18,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 2 adventurers at level 18.,Possible
+encounter_4255,4,9,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 4 adventurers at level 9.,Possible
+encounter_3143,5,4,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_3538,4,14,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 4 adventurers at level 14.,Possible
+encounter_4926,2,10,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 2 adventurers at level 10.,Not Possible
+encounter_2925,2,13,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 2 adventurers at level 13.,Possible
+encounter_1150,4,16,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_3618,4,1,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 4 adventurers at level 1.,Not Possible
+encounter_292,1,18,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 1 adventurers at level 18.,Possible
+encounter_3750,5,17,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_3587,2,13,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 2 adventurers at level 13.,Not Possible
+encounter_534,2,9,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 2 adventurers at level 9.,Not Possible
+encounter_3608,1,9,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 1 adventurers at level 9.,Possible
+encounter_2649,4,7,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 4 adventurers at level 7.,Possible
+encounter_4811,1,13,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 1 adventurers at level 13.,Not Possible
+encounter_1984,1,12,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 1 adventurers at level 12.,Possible
+encounter_2933,1,16,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 1 adventurers at level 16.,Possible
+encounter_1537,1,16,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 1 adventurers at level 16.,Possible
+encounter_4535,4,10,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_4173,1,3,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_3361,4,14,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 14.,Possible
+encounter_3666,1,13,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 1 adventurers at level 13.,Possible
+encounter_4006,2,11,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 2 adventurers at level 11.,Possible
+encounter_3627,1,18,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 1 adventurers at level 18.,Possible
+encounter_587,2,6,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 2 adventurers at level 6.,Not Possible
+encounter_3257,3,19,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_2299,2,1,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 2 adventurers at level 1.,Possible
+encounter_3989,1,6,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 1 adventurers at level 6.,Possible
+encounter_585,1,13,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 1 adventurers at level 13.,Possible
+encounter_2424,3,15,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_1392,1,13,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 1 adventurers at level 13.,Not Possible
+encounter_4526,4,16,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_4921,2,18,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 2 adventurers at level 18.,Possible
+encounter_4801,2,4,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 2 adventurers at level 4.,Not Possible
+encounter_3241,3,9,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 3 adventurers at level 9.,Not Possible
+encounter_4282,4,18,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_3339,1,3,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_3221,5,13,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_2112,5,5,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_1175,1,18,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 1 adventurers at level 18.,Possible
+encounter_4863,5,11,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_3812,4,2,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 4 adventurers at level 2.,Not Possible
+encounter_1868,2,17,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_2615,5,8,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 5 adventurers at level 8.,Not Possible
+encounter_3867,1,13,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 1 adventurers at level 13.,Not Possible
+encounter_4886,3,17,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 3 adventurers at level 17.,Possible
+encounter_3779,1,10,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 1 adventurers at level 10.,Not Possible
+encounter_3847,3,9,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_2417,4,4,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_71,4,14,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 4 adventurers at level 14.,Possible
+encounter_4881,5,11,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_1127,1,7,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 1 adventurers at level 7.,Possible
+encounter_4025,4,6,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_3251,4,18,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_3902,1,18,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 1 adventurers at level 18.,Not Possible
+encounter_1096,1,10,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 1 adventurers at level 10.,Possible
+encounter_4546,2,12,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 2 adventurers at level 12.,Possible
+encounter_1213,5,10,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_3922,2,19,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_1426,3,5,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 3 adventurers at level 5.,Not Possible
+encounter_3067,5,9,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_4520,1,10,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 1 adventurers at level 10.,Possible
+encounter_2101,2,7,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 2 adventurers at level 7.,Possible
+encounter_808,3,19,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_4744,2,10,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 2 adventurers at level 10.,Possible
+encounter_3751,5,6,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 5 adventurers at level 6.,Possible
+encounter_1363,4,4,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_2318,3,16,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_4582,1,18,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 1 adventurers at level 18.,Possible
+encounter_4742,4,16,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_1026,5,7,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 5 adventurers at level 7.,Not Possible
+encounter_3110,4,7,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 4 adventurers at level 7.,Possible
+encounter_2111,4,8,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 4 adventurers at level 8.,Possible
+encounter_1042,4,16,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_1877,1,8,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 1 adventurers at level 8.,Possible
+encounter_882,5,4,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_4300,3,8,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 3 adventurers at level 8.,Not Possible
+encounter_1193,5,17,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_4588,2,5,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 2 adventurers at level 5.,Possible
+encounter_4511,4,1,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 4 adventurers at level 1.,Possible
+encounter_3671,4,16,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_625,2,13,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 2 adventurers at level 13.,Possible
+encounter_2797,3,2,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 3 adventurers at level 2.,Not Possible
+encounter_4292,3,15,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 3 adventurers at level 15.,Not Possible
+encounter_4969,4,1,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 4 adventurers at level 1.,Not Possible
+encounter_234,1,18,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 1 adventurers at level 18.,Possible
+encounter_4567,3,6,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 3 adventurers at level 6.,Not Possible
+encounter_1663,5,8,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 5 adventurers at level 8.,Possible
+encounter_416,3,10,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_4247,5,5,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_2174,4,10,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_1457,4,15,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_747,1,1,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_18,2,5,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 2 adventurers at level 5.,Not Possible
+encounter_1201,5,15,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_1700,4,19,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_3254,5,15,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_597,3,16,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_3227,3,6,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 3 adventurers at level 6.,Not Possible
+encounter_4406,4,15,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_4720,1,3,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_1506,4,12,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 4 adventurers at level 12.,Possible
+encounter_1413,1,19,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 1 adventurers at level 19.,Not Possible
+encounter_1966,5,2,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 5 adventurers at level 2.,Possible
+encounter_372,5,14,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 5 adventurers at level 14.,Possible
+encounter_1341,4,18,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_599,2,7,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 2 adventurers at level 7.,Possible
+encounter_239,1,12,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 1 adventurers at level 12.,Possible
+encounter_3401,4,6,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 4 adventurers at level 6.,Not Possible
+encounter_2068,3,3,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 3 adventurers at level 3.,Possible
+encounter_811,1,10,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 1 adventurers at level 10.,Possible
+encounter_1095,2,16,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 2 adventurers at level 16.,Possible
+encounter_4325,5,3,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 5 adventurers at level 3.,Possible
+encounter_4761,3,5,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 3 adventurers at level 5.,Possible
+encounter_3677,3,10,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_3465,5,7,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_3104,4,8,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 4 adventurers at level 8.,Not Possible
+encounter_2750,3,9,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_2296,3,11,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 3 adventurers at level 11.,Possible
+encounter_4193,2,8,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 2 adventurers at level 8.,Not Possible
+encounter_3709,4,13,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 4 adventurers at level 13.,Not Possible
+encounter_3019,5,6,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 5 adventurers at level 6.,Possible
+encounter_4253,1,7,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 1 adventurers at level 7.,Possible
+encounter_804,1,17,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 1 adventurers at level 17.,Possible
+encounter_4191,2,9,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 2 adventurers at level 9.,Not Possible
+encounter_3706,4,5,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_752,4,10,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_4645,1,13,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 1 adventurers at level 13.,Possible
+encounter_2532,4,7,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 4 adventurers at level 7.,Possible
+encounter_622,5,18,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_2298,4,15,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_3829,1,9,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 1 adventurers at level 9.,Possible
+encounter_567,4,6,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_1136,3,2,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 3 adventurers at level 2.,Possible
+encounter_1205,3,16,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_1048,5,3,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 5 adventurers at level 3.,Possible
+encounter_52,3,15,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_3652,1,4,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 1 adventurers at level 4.,Not Possible
+encounter_1045,3,15,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_2182,5,10,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_2689,2,16,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 2 adventurers at level 16.,Possible
+encounter_535,5,1,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 5 adventurers at level 1.,Possible
+encounter_3185,1,2,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 1 adventurers at level 2.,Not Possible
+encounter_3858,4,13,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 4 adventurers at level 13.,Possible
+encounter_444,4,18,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_3605,4,15,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_196,3,17,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 3 adventurers at level 17.,Possible
+encounter_1116,1,8,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 1 adventurers at level 8.,Not Possible
+encounter_766,4,10,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_1946,2,2,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 2 adventurers at level 2.,Not Possible
+encounter_3248,4,19,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_3003,5,14,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 5 adventurers at level 14.,Possible
+encounter_1433,5,15,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 5 adventurers at level 15.,Possible
+encounter_4201,5,5,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_3096,2,2,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 2 adventurers at level 2.,Possible
+encounter_2923,3,18,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 3 adventurers at level 18.,Not Possible
+encounter_645,3,11,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 3 adventurers at level 11.,Possible
+encounter_1050,3,6,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 3 adventurers at level 6.,Possible
+encounter_3746,3,15,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_4094,2,3,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 2 adventurers at level 3.,Not Possible
+encounter_4404,1,13,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 1 adventurers at level 13.,Possible
+encounter_121,1,3,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_2053,2,9,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_4259,4,4,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_4889,1,8,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 1 adventurers at level 8.,Not Possible
+encounter_4335,1,16,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 1 adventurers at level 16.,Possible
+encounter_4692,4,8,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 4 adventurers at level 8.,Not Possible
+encounter_135,1,2,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 1 adventurers at level 2.,Not Possible
+encounter_2461,2,12,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 2 adventurers at level 12.,Not Possible
+encounter_1955,2,18,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 2 adventurers at level 18.,Possible
+encounter_2464,3,1,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 3 adventurers at level 1.,Not Possible
+encounter_185,4,17,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 4 adventurers at level 17.,Possible
+encounter_1393,1,7,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 1 adventurers at level 7.,Possible
+encounter_2277,1,17,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 1 adventurers at level 17.,Possible
+encounter_512,4,15,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_4730,4,19,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_4055,5,17,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_3138,5,5,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_2670,4,3,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 4 adventurers at level 3.,Not Possible
+encounter_4774,1,4,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 1 adventurers at level 4.,Not Possible
+encounter_4862,5,18,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_2118,5,7,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_252,5,4,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_3527,2,12,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 2 adventurers at level 12.,Possible
+encounter_3560,4,14,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 4 adventurers at level 14.,Not Possible
+encounter_4012,2,9,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_1508,3,13,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 3 adventurers at level 13.,Possible
+encounter_123,5,12,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 5 adventurers at level 12.,Possible
+encounter_4260,4,19,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_3334,4,18,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_1872,4,4,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_3693,1,4,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 1 adventurers at level 4.,Not Possible
+encounter_568,1,18,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 1 adventurers at level 18.,Not Possible
+encounter_1372,4,5,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_3186,1,10,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 1 adventurers at level 10.,Possible
+encounter_3956,5,4,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_1057,3,10,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_857,4,6,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_3839,1,12,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 1 adventurers at level 12.,Possible
+encounter_2861,5,8,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 5 adventurers at level 8.,Possible
+encounter_4770,2,19,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_777,4,10,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_721,5,4,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_2711,4,15,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_2655,4,7,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 4 adventurers at level 7.,Not Possible
+encounter_4878,5,18,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_603,5,10,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_3823,1,12,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 1 adventurers at level 12.,Not Possible
+encounter_1245,2,15,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 2 adventurers at level 15.,Possible
+encounter_4846,4,11,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_4842,3,12,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 3 adventurers at level 12.,Possible
+encounter_319,5,16,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 5 adventurers at level 16.,Possible
+encounter_829,3,4,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 3 adventurers at level 4.,Possible
+encounter_3264,1,5,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 1 adventurers at level 5.,Not Possible
+encounter_275,3,6,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 3 adventurers at level 6.,Not Possible
+encounter_2665,5,2,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 5 adventurers at level 2.,Possible
+encounter_550,4,5,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_3642,2,19,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_4054,4,7,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 4 adventurers at level 7.,Possible
+encounter_4893,2,15,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 2 adventurers at level 15.,Possible
+encounter_2935,3,8,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 3 adventurers at level 8.,Possible
+encounter_606,2,8,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 2 adventurers at level 8.,Not Possible
+encounter_897,3,2,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 3 adventurers at level 2.,Not Possible
+encounter_528,4,1,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 4 adventurers at level 1.,Not Possible
+encounter_4608,1,18,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 1 adventurers at level 18.,Possible
+encounter_2348,4,11,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_3440,5,13,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_4999,3,10,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_4827,4,1,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 4 adventurers at level 1.,Not Possible
+encounter_3923,3,17,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 3 adventurers at level 17.,Possible
+encounter_299,1,5,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 1 adventurers at level 5.,Not Possible
+encounter_2120,5,6,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 5 adventurers at level 6.,Not Possible
+encounter_2537,3,2,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 3 adventurers at level 2.,Not Possible
+encounter_4204,3,1,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 3 adventurers at level 1.,Possible
+encounter_3255,2,18,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 2 adventurers at level 18.,Possible
+encounter_3726,2,7,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 2 adventurers at level 7.,Possible
+encounter_1261,4,19,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_1559,2,16,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 2 adventurers at level 16.,Possible
+encounter_3270,3,2,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 3 adventurers at level 2.,Possible
+encounter_4047,1,11,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 1 adventurers at level 11.,Possible
+encounter_757,4,2,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 4 adventurers at level 2.,Not Possible
+encounter_1011,2,13,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 2 adventurers at level 13.,Possible
+encounter_2795,3,9,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_2906,4,13,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 4 adventurers at level 13.,Possible
+encounter_1871,4,15,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_2230,1,6,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 1 adventurers at level 6.,Not Possible
+encounter_1174,1,11,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 1 adventurers at level 11.,Not Possible
+encounter_1833,4,7,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 4 adventurers at level 7.,Possible
+encounter_377,2,9,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_3854,2,6,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 2 adventurers at level 6.,Possible
+encounter_3617,2,17,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 2 adventurers at level 17.,Not Possible
+encounter_799,1,11,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 1 adventurers at level 11.,Possible
+encounter_379,4,17,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 4 adventurers at level 17.,Possible
+encounter_1159,1,1,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_3820,4,7,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 4 adventurers at level 7.,Not Possible
+encounter_2793,5,8,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 5 adventurers at level 8.,Possible
+encounter_2241,2,6,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 2 adventurers at level 6.,Not Possible
+encounter_4036,3,9,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_2663,1,10,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 1 adventurers at level 10.,Not Possible
+encounter_4013,2,15,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 2 adventurers at level 15.,Possible
+encounter_2958,2,14,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 2 adventurers at level 14.,Not Possible
+encounter_3928,1,19,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 1 adventurers at level 19.,Not Possible
+encounter_1039,2,17,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_3260,4,11,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_1345,1,1,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_2506,1,8,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 1 adventurers at level 8.,Not Possible
+encounter_1722,2,12,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 2 adventurers at level 12.,Not Possible
+encounter_4664,4,10,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 4 adventurers at level 10.,Possible
+encounter_176,5,11,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_4894,1,5,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 1 adventurers at level 5.,Possible
+encounter_1910,5,17,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_46,3,13,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 3 adventurers at level 13.,Possible
+encounter_3410,4,16,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_4675,4,11,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_1076,1,9,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 1 adventurers at level 9.,Possible
+encounter_2830,4,13,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 4 adventurers at level 13.,Possible
+encounter_1505,3,9,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_2310,1,14,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 1 adventurers at level 14.,Possible
+encounter_1437,5,4,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 5 adventurers at level 4.,Possible
+encounter_2419,3,12,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 3 adventurers at level 12.,Possible
+encounter_3987,1,14,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 1 adventurers at level 14.,Possible
+encounter_3099,5,2,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 5 adventurers at level 2.,Not Possible
+encounter_4589,4,16,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_284,4,4,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_4919,1,18,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 1 adventurers at level 18.,Not Possible
+encounter_843,4,9,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 4 adventurers at level 9.,Possible
+encounter_1514,4,18,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_1169,1,10,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 1 adventurers at level 10.,Not Possible
+encounter_1593,2,18,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 2 adventurers at level 18.,Not Possible
+encounter_3461,3,12,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 3 adventurers at level 12.,Possible
+encounter_3166,3,9,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_2285,1,2,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 1 adventurers at level 2.,Possible
+encounter_3576,3,7,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 3 adventurers at level 7.,Possible
+encounter_4871,5,11,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 5 adventurers at level 11.,Possible
+encounter_2306,5,1,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 5 adventurers at level 1.,Not Possible
+encounter_953,1,9,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 1 adventurers at level 9.,Not Possible
+encounter_4943,1,12,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 1 adventurers at level 12.,Not Possible
+encounter_3054,2,3,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 2 adventurers at level 3.,Not Possible
+encounter_4560,1,8,2,Bugbear,1.0,A group of 2 Bugbear(s) confronts a party of 1 adventurers at level 8.,Possible
+encounter_2686,1,9,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 1 adventurers at level 9.,Possible
+encounter_1490,4,4,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_928,1,3,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_1210,5,13,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_3974,5,4,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 5 adventurers at level 4.,Not Possible
+encounter_3546,1,1,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_4362,4,6,6,Troll,5.0,A group of 6 Troll(s) confronts a party of 4 adventurers at level 6.,Not Possible
+encounter_1922,4,5,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_352,3,1,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 3 adventurers at level 1.,Not Possible
+encounter_4899,1,10,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 1 adventurers at level 10.,Not Possible
+encounter_3394,4,16,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_2722,4,13,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 4 adventurers at level 13.,Possible
+encounter_4982,4,11,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_719,1,18,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 1 adventurers at level 18.,Not Possible
+encounter_2703,1,10,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 1 adventurers at level 10.,Not Possible
+encounter_2723,2,1,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 2 adventurers at level 1.,Possible
+encounter_4562,5,3,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 5 adventurers at level 3.,Possible
+encounter_309,2,3,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 2 adventurers at level 3.,Not Possible
+encounter_1676,3,8,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 3 adventurers at level 8.,Possible
+encounter_834,4,19,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_367,1,19,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 1 adventurers at level 19.,Possible
+encounter_4507,1,18,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 1 adventurers at level 18.,Not Possible
+encounter_2079,2,1,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 2 adventurers at level 1.,Possible
+encounter_4039,3,18,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 3 adventurers at level 18.,Possible
+encounter_4847,5,10,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_4480,5,2,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 5 adventurers at level 2.,Possible
+encounter_1747,4,18,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_20,3,18,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 3 adventurers at level 18.,Possible
+encounter_1323,2,8,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 2 adventurers at level 8.,Possible
+encounter_3568,3,7,4,Young Red Dragon,10.0,A group of 4 Young Red Dragon(s) confronts a party of 3 adventurers at level 7.,Not Possible
+encounter_2522,4,9,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 9.,Possible
+encounter_219,3,14,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 3 adventurers at level 14.,Not Possible
+encounter_1488,1,8,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 1 adventurers at level 8.,Possible
+encounter_439,3,14,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 3 adventurers at level 14.,Possible
+encounter_4175,3,16,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 3 adventurers at level 16.,Not Possible
+encounter_2751,2,2,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 2 adventurers at level 2.,Possible
+encounter_3289,4,12,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 4 adventurers at level 12.,Possible
+encounter_3434,5,12,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 5 adventurers at level 12.,Possible
+encounter_2526,5,13,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_4651,3,9,5,Goblin,0.25,A group of 5 Goblin(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_3689,2,8,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 2 adventurers at level 8.,Not Possible
+encounter_2764,4,15,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_803,3,7,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 3 adventurers at level 7.,Possible
+encounter_2998,5,17,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_2229,4,5,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_4786,3,4,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 3 adventurers at level 4.,Not Possible
+encounter_2078,3,18,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 3 adventurers at level 18.,Possible
+encounter_583,3,8,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 3 adventurers at level 8.,Possible
+encounter_204,2,3,1,Young Red Dragon,10.0,A group of 1 Young Red Dragon(s) confronts a party of 2 adventurers at level 3.,Not Possible
+encounter_4347,5,6,3,Ogre,2.0,A group of 3 Ogre(s) confronts a party of 5 adventurers at level 6.,Possible
+encounter_3479,3,9,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_2930,3,15,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_3086,3,18,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 3 adventurers at level 18.,Possible
+encounter_1019,3,14,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 3 adventurers at level 14.,Not Possible
+encounter_1584,2,8,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 2 adventurers at level 8.,Possible
+encounter_1033,3,2,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 3 adventurers at level 2.,Possible
+encounter_1719,4,15,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_1282,4,13,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 4 adventurers at level 13.,Possible
+encounter_2499,1,18,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 1 adventurers at level 18.,Not Possible
+encounter_3351,3,8,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 3 adventurers at level 8.,Possible
+encounter_518,5,6,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 5 adventurers at level 6.,Possible
+encounter_1748,3,19,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 3 adventurers at level 19.,Possible
+encounter_4653,5,2,1,Goblin,0.25,A group of 1 Goblin(s) confronts a party of 5 adventurers at level 2.,Possible
+encounter_3733,5,1,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 5 adventurers at level 1.,Not Possible
+encounter_669,3,10,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 3 adventurers at level 10.,Possible
+encounter_4060,5,4,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 5 adventurers at level 4.,Not Possible
+encounter_3027,1,17,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 1 adventurers at level 17.,Possible
+encounter_4933,1,19,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 1 adventurers at level 19.,Not Possible
+encounter_3287,2,19,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_2651,2,8,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 2 adventurers at level 8.,Not Possible
+encounter_4454,5,5,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_3193,1,11,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 1 adventurers at level 11.,Not Possible
+encounter_2125,3,5,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 3 adventurers at level 5.,Possible
+encounter_3376,5,13,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 5 adventurers at level 13.,Possible
+encounter_3393,4,6,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_3486,3,13,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 3 adventurers at level 13.,Not Possible
+encounter_760,1,8,7,Young Red Dragon,10.0,A group of 7 Young Red Dragon(s) confronts a party of 1 adventurers at level 8.,Not Possible
+encounter_3380,1,13,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 1 adventurers at level 13.,Possible
+encounter_4441,4,8,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 4 adventurers at level 8.,Possible
+encounter_2527,1,3,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 1 adventurers at level 3.,Possible
+encounter_4859,5,3,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 5 adventurers at level 3.,Possible
+encounter_908,4,11,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_2684,1,15,2,Young Red Dragon,10.0,A group of 2 Young Red Dragon(s) confronts a party of 1 adventurers at level 15.,Not Possible
+encounter_215,4,11,6,Goblin,0.25,A group of 6 Goblin(s) confronts a party of 4 adventurers at level 11.,Possible
+encounter_3332,2,19,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 2 adventurers at level 19.,Possible
+encounter_4459,1,14,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 1 adventurers at level 14.,Possible
+encounter_694,5,9,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_1504,1,2,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 1 adventurers at level 2.,Not Possible
+encounter_2415,1,11,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 1 adventurers at level 11.,Possible
+encounter_2119,5,5,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 5 adventurers at level 5.,Not Possible
+encounter_3859,4,2,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 4 adventurers at level 2.,Possible
+encounter_2463,3,16,3,Orc,0.5,A group of 3 Orc(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_3636,5,3,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 5 adventurers at level 3.,Possible
+encounter_4106,1,16,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 1 adventurers at level 16.,Possible
+encounter_4479,3,11,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 3 adventurers at level 11.,Possible
+encounter_197,4,18,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_4668,5,10,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_1544,4,1,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 4 adventurers at level 1.,Not Possible
+encounter_1331,5,17,3,Troll,5.0,A group of 3 Troll(s) confronts a party of 5 adventurers at level 17.,Possible
+encounter_880,5,5,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 5 adventurers at level 5.,Possible
+encounter_4503,3,2,6,Young Red Dragon,10.0,A group of 6 Young Red Dragon(s) confronts a party of 3 adventurers at level 2.,Not Possible
+encounter_3502,2,7,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 2 adventurers at level 7.,Possible
+encounter_3895,1,19,5,Ogre,2.0,A group of 5 Ogre(s) confronts a party of 1 adventurers at level 19.,Possible
+encounter_4991,1,11,4,Goblin,0.25,A group of 4 Goblin(s) confronts a party of 1 adventurers at level 11.,Possible
+encounter_888,4,2,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 4 adventurers at level 2.,Not Possible
+encounter_1346,5,18,4,Ogre,2.0,A group of 4 Ogre(s) confronts a party of 5 adventurers at level 18.,Possible
+encounter_69,4,1,2,Troll,5.0,A group of 2 Troll(s) confronts a party of 4 adventurers at level 1.,Not Possible
+encounter_4211,1,13,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 1 adventurers at level 13.,Possible
+encounter_1816,5,14,2,Ogre,2.0,A group of 2 Ogre(s) confronts a party of 5 adventurers at level 14.,Possible
+encounter_569,4,9,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 4 adventurers at level 9.,Not Possible
+encounter_2168,2,4,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 2 adventurers at level 4.,Possible
+encounter_97,5,4,9,Young Red Dragon,10.0,A group of 9 Young Red Dragon(s) confronts a party of 5 adventurers at level 4.,Not Possible
+encounter_4182,5,10,8,Goblin,0.25,A group of 8 Goblin(s) confronts a party of 5 adventurers at level 10.,Possible
+encounter_3354,4,19,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 4 adventurers at level 19.,Possible
+encounter_140,5,12,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 5 adventurers at level 12.,Possible
+encounter_4955,3,18,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 3 adventurers at level 18.,Possible
+encounter_2603,3,9,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_4024,1,17,3,Bugbear,1.0,A group of 3 Bugbear(s) confronts a party of 1 adventurers at level 17.,Possible
+encounter_4773,2,13,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 2 adventurers at level 13.,Possible
+encounter_1607,3,15,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 3 adventurers at level 15.,Possible
+encounter_1630,3,11,4,Orc,0.5,A group of 4 Orc(s) confronts a party of 3 adventurers at level 11.,Possible
+encounter_1540,2,9,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_1695,4,15,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 4 adventurers at level 15.,Possible
+encounter_2060,4,18,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_464,4,16,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 4 adventurers at level 16.,Possible
+encounter_2331,4,4,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 4 adventurers at level 4.,Possible
+encounter_3044,2,4,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 2 adventurers at level 4.,Possible
+encounter_4735,4,6,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 4 adventurers at level 6.,Possible
+encounter_595,2,9,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 2 adventurers at level 9.,Possible
+encounter_3815,3,16,1,Bugbear,1.0,A group of 1 Bugbear(s) confronts a party of 3 adventurers at level 16.,Possible
+encounter_626,3,6,6,Orc,0.5,A group of 6 Orc(s) confronts a party of 3 adventurers at level 6.,Possible
+encounter_451,1,11,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 1 adventurers at level 11.,Possible
+encounter_1500,3,9,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 3 adventurers at level 9.,Possible
+encounter_2457,3,7,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 3 adventurers at level 7.,Possible
+encounter_4723,5,1,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 5 adventurers at level 1.,Not Possible
+encounter_2985,2,17,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_1570,5,2,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 5 adventurers at level 2.,Possible
+encounter_1035,5,7,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_3519,3,17,5,Bugbear,1.0,A group of 5 Bugbear(s) confronts a party of 3 adventurers at level 17.,Possible
+encounter_1558,5,1,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 5 adventurers at level 1.,Not Possible
+encounter_3625,3,6,3,Goblin,0.25,A group of 3 Goblin(s) confronts a party of 3 adventurers at level 6.,Possible
+encounter_4665,2,7,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 2 adventurers at level 7.,Not Possible
+encounter_151,5,2,2,Orc,0.5,A group of 2 Orc(s) confronts a party of 5 adventurers at level 2.,Possible
+encounter_1421,5,9,6,Ogre,2.0,A group of 6 Ogre(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_2012,2,12,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 2 adventurers at level 12.,Possible
+encounter_2687,5,7,5,Troll,5.0,A group of 5 Troll(s) confronts a party of 5 adventurers at level 7.,Possible
+encounter_1787,1,1,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 1 adventurers at level 1.,Not Possible
+encounter_89,1,3,8,Troll,5.0,A group of 8 Troll(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_458,1,3,7,Ogre,2.0,A group of 7 Ogre(s) confronts a party of 1 adventurers at level 3.,Not Possible
+encounter_1306,5,1,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 5 adventurers at level 1.,Not Possible
+encounter_2926,5,9,7,Bugbear,1.0,A group of 7 Bugbear(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_3271,4,12,5,Orc,0.5,A group of 5 Orc(s) confronts a party of 4 adventurers at level 12.,Possible
+encounter_3228,4,13,8,Young Red Dragon,10.0,A group of 8 Young Red Dragon(s) confronts a party of 4 adventurers at level 13.,Not Possible
+encounter_1989,2,4,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 2 adventurers at level 4.,Not Possible
+encounter_3755,3,7,8,Orc,0.5,A group of 8 Orc(s) confronts a party of 3 adventurers at level 7.,Possible
+encounter_3647,1,9,9,Bugbear,1.0,A group of 9 Bugbear(s) confronts a party of 1 adventurers at level 9.,Possible
+encounter_832,1,12,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 1 adventurers at level 12.,Possible
+encounter_240,4,13,9,Goblin,0.25,A group of 9 Goblin(s) confronts a party of 4 adventurers at level 13.,Possible
+encounter_4682,5,9,8,Ogre,2.0,A group of 8 Ogre(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_3023,2,12,4,Bugbear,1.0,A group of 4 Bugbear(s) confronts a party of 2 adventurers at level 12.,Possible
+encounter_3149,2,12,5,Young Red Dragon,10.0,A group of 5 Young Red Dragon(s) confronts a party of 2 adventurers at level 12.,Not Possible
+encounter_1947,2,6,9,Ogre,2.0,A group of 9 Ogre(s) confronts a party of 2 adventurers at level 6.,Not Possible
+encounter_2776,1,16,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 1 adventurers at level 16.,Not Possible
+encounter_193,2,10,2,Goblin,0.25,A group of 2 Goblin(s) confronts a party of 2 adventurers at level 10.,Possible
+encounter_4850,4,5,7,Orc,0.5,A group of 7 Orc(s) confronts a party of 4 adventurers at level 5.,Possible
+encounter_4940,2,17,1,Ogre,2.0,A group of 1 Ogre(s) confronts a party of 2 adventurers at level 17.,Possible
+encounter_945,4,8,1,Orc,0.5,A group of 1 Orc(s) confronts a party of 4 adventurers at level 8.,Possible
+encounter_1269,4,18,4,Troll,5.0,A group of 4 Troll(s) confronts a party of 4 adventurers at level 18.,Possible
+encounter_4232,5,12,3,Young Red Dragon,10.0,A group of 3 Young Red Dragon(s) confronts a party of 5 adventurers at level 12.,Possible
+encounter_2308,1,5,8,Bugbear,1.0,A group of 8 Bugbear(s) confronts a party of 1 adventurers at level 5.,Not Possible
+encounter_4425,5,9,1,Troll,5.0,A group of 1 Troll(s) confronts a party of 5 adventurers at level 9.,Possible
+encounter_4712,1,16,9,Troll,5.0,A group of 9 Troll(s) confronts a party of 1 adventurers at level 16.,Not Possible
+encounter_2314,4,7,9,Orc,0.5,A group of 9 Orc(s) confronts a party of 4 adventurers at level 7.,Possible
+encounter_3215,2,18,6,Bugbear,1.0,A group of 6 Bugbear(s) confronts a party of 2 adventurers at level 18.,Possible
+encounter_2733,2,1,7,Troll,5.0,A group of 7 Troll(s) confronts a party of 2 adventurers at level 1.,Not Possible
+encounter_1927,5,6,7,Goblin,0.25,A group of 7 Goblin(s) confronts a party of 5 adventurers at level 6.,Possible
