@@ -1,0 +1,7 @@
+# Project virtual environments
+/venv/
+/.venv/
+/env/
+
+# Duplicate Simplilearn submission package
+/Upload/
