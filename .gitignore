@@ -32,3 +32,10 @@ lib/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local practice and unfinished projects
+/Practice/
+/Microsoft_AI_Engineer/microsoft-malware-detection/
+
+# Local secrets
+.env
