@@ -1,0 +1,9 @@
+# Project virtual environments
+/venv/
+/.venv/
+/env/
+
+# Non essential files and folders
+/Practice/
+**/Screenshots/
+*.zip
