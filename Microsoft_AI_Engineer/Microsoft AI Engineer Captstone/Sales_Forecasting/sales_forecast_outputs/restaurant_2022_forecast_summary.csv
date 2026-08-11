@@ -1,0 +1,7 @@
+demand_rank,restaurant_id,restaurant_name,predicted_units_sold,predicted_revenue,average_daily_units_sold,annual_demand_share_pct
+1,1,Bob's Diner,243805.891,2350920.74,667.961,99.006
+2,3,Sweet Shack,617.289,1033.92,1.691,0.251
+3,6,Surfs Up,592.03,5259.15,1.622,0.24
+4,2,Beachfront Bar,437.386,1283.66,1.198,0.178
+5,5,Corner Cafe,431.15,4877.52,1.181,0.175
+6,4,Fou Cher,371.105,9670.69,1.017,0.151
